@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/rustem0843/48e8dfa3-0770-4868-9132-c8169175f677/f398d710-58ce-41c3-81dc-3fbf3171bcdc/_apis/work/boardbadge/2440ff58-89e9-4428-81b7-785760eaee17)](https://dev.azure.com/rustem0843/48e8dfa3-0770-4868-9132-c8169175f677/_boards/board/t/f398d710-58ce-41c3-81dc-3fbf3171bcdc/Microsoft.RequirementCategory)
 ## Agent Task Manager
 
 This agent is designed to participate in Google Meet meetings, specifically handling conversations in multiple languages including Ukrainian, Russian, and Surjik (a mixed language). It utilizes Automatic Speech Recognition (ASR) and processes voice commands to interact with GitHub.
